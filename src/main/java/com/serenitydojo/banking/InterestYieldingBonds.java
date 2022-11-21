@@ -1,10 +1,5 @@
 package com.serenitydojo.banking;
 
-import org.assertj.core.api.Assertions;
-import org.junit.Test;
-
-import static org.assertj.core.api.Assertions.*;
-
 public class InterestYieldingBonds implements InterestBearing {
 
     private double value;

@@ -1,4 +1,4 @@
-package com.serenitydojo.exeptions;
+package com.serenitydojo.exceptions;
 
 public class FileHasNoWordsException extends RuntimeException{
 

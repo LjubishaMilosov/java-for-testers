@@ -1,6 +1,5 @@
-package com.serenitydojo.exeptions;
+package com.serenitydojo.exceptions;
 
-import javax.imageio.IIOException;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.NoSuchFileException;

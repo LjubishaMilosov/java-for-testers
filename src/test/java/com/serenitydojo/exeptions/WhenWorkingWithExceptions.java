@@ -1,12 +1,8 @@
 package com.serenitydojo.exeptions;
 
-import org.assertj.core.api.Assertions;
-import org.junit.Assert;
+import com.serenitydojo.exceptions.FileHasNoWordsException;
+import com.serenitydojo.exceptions.WordCounter;
 import org.junit.Test;
-
-import javax.imageio.IIOException;
-
-import java.io.IOException;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
